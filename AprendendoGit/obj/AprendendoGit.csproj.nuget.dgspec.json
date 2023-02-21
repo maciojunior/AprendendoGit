@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\AprendendoGit\\AprendendoGit.csproj": {}
+    "C:\\DEV\\AprenderGit\\AprendendoGit\\AprendendoGit.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\AprendendoGit\\AprendendoGit.csproj": {
+    "C:\\DEV\\AprenderGit\\AprendendoGit\\AprendendoGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\AprendendoGit\\AprendendoGit.csproj",
+        "projectUniqueName": "C:\\DEV\\AprenderGit\\AprendendoGit\\AprendendoGit.csproj",
         "projectName": "AprendendoGit",
-        "projectPath": "C:\\DEV\\AprendendoGit\\AprendendoGit.csproj",
+        "projectPath": "C:\\DEV\\AprenderGit\\AprendendoGit\\AprendendoGit.csproj",
         "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\AprendendoGit\\obj\\",
+        "outputPath": "C:\\DEV\\AprenderGit\\AprendendoGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
